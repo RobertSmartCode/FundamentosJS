@@ -2,7 +2,7 @@
 
 const heading = document.querySelector('.heading')
 heading.addEventListener('click', () =>  {
-    heading.textContent = 'Nuevo Heading al dar click'
+   heading.textContent = 'Nuevo Heading al dar click'
 })
 
 
